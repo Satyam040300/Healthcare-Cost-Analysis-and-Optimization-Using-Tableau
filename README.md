@@ -57,7 +57,9 @@ Insurance Type: Private insurance patients incur higher costs compared to public
 
 Regional Analysis: New York and California have the highest total costs, possibly due to higher living costs.
 
+
 Future Work
+
 Incorporate real-world healthcare data for more accurate analysis.
 
 Build predictive models to forecast future costs and patient outcomes.
